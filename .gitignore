@@ -3,3 +3,6 @@
 .idea
 .venv
 .vscode
+
+# API 키 숨김
+.env
