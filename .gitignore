@@ -6,3 +6,6 @@
 
 # API 키 숨김
 .env
+
+
+*/**/__pycache__
