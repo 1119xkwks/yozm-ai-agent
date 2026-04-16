@@ -7,15 +7,15 @@
 ```
 # OpenAI API 키 (요즘 AI 에이전트)
 # https://platform.openai.com
-OPENAI\_AI\_KEY=
+OPENAI_AI_KEY=
 
 # Claude (요즘 AI 에이전트)
 # https://platform.claude.com
-ANTHROPIC\_API\_KEY=
+ANTHROPIC_API_KEY=
 
 # Google
 # https://aistudio.google.com
-GOOGLE\_GENAI\_USE\_VERTEXAI=FALSE
-GOOGLE\_API\_KEY=
+GOOGLE_GENAI_USE_VERTEXAI=FALSE
+GOOGLE_API_KEY=
 ```
 
